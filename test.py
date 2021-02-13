@@ -1,3 +1,1 @@
 print('testing')
-
-print('test')
